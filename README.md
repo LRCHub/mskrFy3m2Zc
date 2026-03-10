@@ -1,74 +1,42 @@
-# 東京真中 – ドゥーマー (Instrumental)
+# Tokyo Manaka – ドゥーマー - Doomer
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:08.36] ぶっ飛んだアイデアにはNo No
-[00:10.50] なんてやってられんな
-[00:12.58] Hey Normie
-[00:13.97] Hey Normie
-[00:15.74] 大言吐いていたって平凡なんじゃカッコ悪いぜ
-[00:19.92] Hey Looser
-[00:21.51] Hey Looser
-[00:23.08] （Oh No）
-[00:23.83] （イージーゲーム　GGです）
-[00:25.57] ゆるりゆるり
-[00:27.58] （イージーゲーム　GGです）
-[00:29.07] やり過ごして
-[00:32.07] 
-[00:32.17] 「期待」「愛」「未来」無い薄明かりのもと
-[00:42.17] 
-[00:37.25] Lay Back and Dive
-[00:45.75] 
-[00:40.50] 夜の間に
-[00:42.50] 
-[00:44.14] ぷかぷかぷか
-[00:47.14] 
-[00:47.82] 夢の間に
-[00:49.82] 
-[00:51.47] 真っ逆さまだ
-[00:53.54] ただ　だ　だ　だ
-[00:55.64] 踊っていた
-[00:57.21] たた　た　た
-[00:58.78] たいだけなんだ
-[01:00.86] ただ　だ　だ　だ
-[01:02.97] 黙っていたって
-[01:05.23] ぶわっは
-[01:06.23] Lay Back and Dive
-[01:08.09] 明日にはきっと何か見つかんだろう
-[01:11.81] 昨日もそんなこと思ってたっけな
-[01:15.12] （ピーキーで　PPです）
-[01:16.93] のらりくらり
-[01:18.71] （ピーキーで　PPです）
-[01:20.39] たゆたうように
-[01:23.89] 
-[01:23.56] 考えすぎて馬鹿にだってなるでしょう
-[01:32.06] 
-[01:28.60] Lay Back and Dive
-[01:37.10] 
-[01:31.81] 夜の間に
-[01:33.81] 
-[01:35.45] ぷかぷかぷか
-[01:38.45] 
-[01:39.12] 夢の間に
-[01:41.12] 
-[01:42.76] 真っ逆さまだ
-[01:45.76] 
-[01:57.90] Lay Back and Dive
-[02:06.40] 
-[02:01.10] 夜の間に
-[02:03.10] 
-[02:04.79] ぷかぷかぷか
-[02:07.79] 
-[02:08.43] 夢の間に
-[02:10.43] 
-[02:12.09] 真っ逆さまだ
-[02:14.13] ただ　だ　だ　だ
-[02:16.25] 踊っていた
-[02:17.81] たた　た　た
-[02:19.40] たいだけなんだ
-[02:21.50] ただ　だ　だ　だ
-[02:23.58] 黙っていたって
-[02:25.84] ぶわっは
-[02:26.87] Lay Back and Dive
+[00:08.73] Buttonda aidea ni wa no, no nante yatte raren na
+[00:12.33] Hey, normie, hey, normie
+[00:15.93] Taigen haiteita tte heibonna nja kakko warui ze
+[00:19.69] Hey, looser, hey, looser (Oh, no)
+[00:23.49] (Iijii geemu GG desu) Yururi yururi
+[00:27.17] (Iijii geemu GG desu) Yarisugo shite
+[00:32.51] "Kitai ", "Ai", "Mirai" nai usu akari no moto
+[00:36.90] Lay back and dive
+[00:40.58] Yoru no ma ni ma ni
+[00:44.25] puka puka puka
+[00:47.97] Yume no ma ni ma ni
+[00:51.81] massaka samada-da-da-da
+[00:55.05] Tada odotteita-ta-ta-ta-ta-tai
+[00:58.94] Dakena nda-da-da-da-da-da
+[01:02.67] Damatte itatte bu wah wa
+[01:06.14] Lay back and dive
+[01:08.04] (Ashita ni wa kitto nani ka mitsukan darou)
+[01:11.76] (Kinou mo sonna koto omotte takkena)
+[01:15.36] (Piikii de PP desu) Norari kurari
+[01:18.60] (Piikii de PP desu) Tayutau you ni
+[01:23.91] Kangae sugite baka ni datte narudeshou
+[01:28.39] Lay back and dive
+[01:31.75] Yoru no ma ni ma ni
+[01:35.41] puka puka puka
+[01:39.34] Yume no ma ni ma ni
+[01:42.97] massaka samada
+[01:46.60] fr fr fr
+[01:58.28] Lay back and dive
+[02:01.12] Yoru no ma ni ma ni
+[02:04.84] puka puka puka
+[02:08.48] Yume no ma ni ma ni
+[02:11.96] massaka samada-da-da-da
+[02:14.00] Tada odotteita-ta-ta-ta-ta-tai
+[02:19.48] Dakena nda-da-da-da-da-da
+[02:23.32] Damatte itatte bu wah wa
+[02:26.64] Lay back and dive
 ```
